@@ -1,0 +1,72 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T18:40:27.003Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T18:43:02.503Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T18:55:26.365Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T18:55:26.409Z"}
+{"code":"SQLITE_CANTOPEN","errno":14,"level":"error","message":"Error connecting to database: SQLITE_CANTOPEN: unable to open database file","stack":"Error: SQLITE_CANTOPEN: unable to open database file","timestamp":"2024-12-01T18:55:38.712Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T18:56:36.886Z"}
+{"level":"info","message":"Default routines inserted successfully","timestamp":"2024-12-01T18:56:36.996Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T18:56:36.997Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T18:56:37.014Z"}
+{"level":"info","message":"Database connection closed","timestamp":"2024-12-01T19:07:58.726Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:08:03.462Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:08:03.475Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T19:08:03.490Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:11:41.497Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:11:41.506Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:11:45.428Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:11:45.432Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:11:47.358Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:11:47.362Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:12:29.272Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:12:29.276Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T19:12:29.284Z"}
+{"level":"info","message":"Email sent successfully: <31cc091c-7387-f5ef-f070-090f67f1cbaa@gmail.com>","timestamp":"2024-12-01T19:12:33.781Z"}
+{"level":"info","message":"Email sent successfully: <f0501991-2c99-d272-86e2-061bfcf315c0@gmail.com>","timestamp":"2024-12-01T19:12:42.879Z"}
+{"level":"info","message":"Email sent successfully: <37aebbfd-358e-8b7c-3920-1437423c6b21@gmail.com>","timestamp":"2024-12-01T19:12:52.993Z"}
+{"level":"info","message":"Database connection closed","timestamp":"2024-12-01T19:12:55.662Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:18:26.789Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:18:26.795Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T19:18:26.805Z"}
+{"level":"info","message":"Email sent successfully: <bfa5f250-bee2-bbe2-aeca-675b100e4bd7@gmail.com>","timestamp":"2024-12-01T19:18:34.092Z"}
+{"level":"info","message":"Email sent successfully: <aae0fc89-aaea-e89a-89b7-b3ec5b0ddc7c@gmail.com>","timestamp":"2024-12-01T19:18:44.272Z"}
+{"level":"info","message":"Email sent successfully: <e59993ed-c558-808a-a9ca-9734aa834fce@gmail.com>","timestamp":"2024-12-01T19:18:53.169Z"}
+{"level":"info","message":"Email sent successfully: <80c7a9ce-9fe2-9dce-6506-db225a9fbd07@gmail.com>","timestamp":"2024-12-01T19:19:03.961Z"}
+{"level":"info","message":"Database connection closed","timestamp":"2024-12-01T19:19:07.474Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:20:02.047Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:20:02.051Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T19:20:02.058Z"}
+{"level":"info","message":"Email sent successfully: <a54918e7-2de5-b273-58db-ecded8b9cdeb@gmail.com>","timestamp":"2024-12-01T19:20:12.473Z"}
+{"level":"info","message":"Email sent successfully: <0135a291-cc02-4c3c-bc9c-29edeffdcd59@gmail.com>","timestamp":"2024-12-01T19:20:23.330Z"}
+{"level":"info","message":"Email sent successfully: <406bf1bf-ec06-27eb-d0c9-e085777c368a@gmail.com>","timestamp":"2024-12-01T19:20:33.151Z"}
+{"level":"info","message":"Database connection closed","timestamp":"2024-12-01T19:20:39.491Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:25:33.004Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:25:46.523Z"}
+{"code":"SQLITE_ERROR","errno":1,"level":"error","message":"Database initialization error: SQLITE_ERROR: no such table: routines","stack":"Error: SQLITE_ERROR: no such table: routines","timestamp":"2024-12-01T19:25:46.539Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:25:51.269Z"}
+{"level":"info","message":"Default routines inserted successfully","timestamp":"2024-12-01T19:25:51.331Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:25:51.332Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T19:25:51.338Z"}
+{"level":"info","message":"Database connection closed","timestamp":"2024-12-01T19:26:29.421Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:26:30.720Z"}
+{"level":"info","message":"Default routines inserted successfully","timestamp":"2024-12-01T19:26:30.810Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:26:30.811Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T19:26:30.849Z"}
+{"level":"info","message":"Email sent successfully: <7fb94a65-a45a-ddc0-c80b-bda32a754335@gmail.com>","timestamp":"2024-12-01T19:28:45.384Z"}
+{"level":"info","message":"Email sent successfully: <0082cf1b-5642-7390-77a0-e5d66ff795ba@gmail.com>","timestamp":"2024-12-01T19:28:53.637Z"}
+{"level":"info","message":"Email sent successfully: <bbc883a7-9293-2be0-6b60-e068eb159904@gmail.com>","timestamp":"2024-12-01T19:29:02.476Z"}
+{"level":"info","message":"Email sent successfully: <4ace01e1-eae4-c934-5f0c-2d0f2a25fd31@gmail.com>","timestamp":"2024-12-01T19:29:13.768Z"}
+{"level":"info","message":"Database connection closed","timestamp":"2024-12-01T19:29:21.847Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:30:02.343Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:30:02.349Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T19:30:02.357Z"}
+{"level":"error","message":"Failed to send daily reminders:","stack":"Error\n    at Task._execution (file:///home/hp/Desktop/Projects/Email%20scheduler-%20daily%20routine%20(dec24)/src/services/cronService.js:16:13)","timestamp":"2024-12-01T19:30:10.369Z"}
+{"level":"error","message":"Failed to send daily reminders:","stack":"Error\n    at Task._execution (file:///home/hp/Desktop/Projects/Email%20scheduler-%20daily%20routine%20(dec24)/src/services/cronService.js:16:13)","timestamp":"2024-12-01T19:30:20.378Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:30:22.542Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:30:22.547Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T19:30:22.554Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:30:41.752Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:30:41.756Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T19:30:41.764Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:33:13.672Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:33:13.676Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T19:33:13.684Z"}
