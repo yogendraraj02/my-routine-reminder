@@ -70,3 +70,8 @@
 {"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-01T19:33:13.672Z"}
 {"level":"info","message":"Database initialized successfully","timestamp":"2024-12-01T19:33:13.676Z"}
 {"level":"info","message":"Server running on port 3000","timestamp":"2024-12-01T19:33:13.684Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2024-12-02T18:17:12.463Z"}
+{"level":"info","message":"Database initialized successfully","timestamp":"2024-12-02T18:17:12.473Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-02T18:17:12.480Z"}
+{"level":"info","message":"Email sent successfully: <264567b9-657f-2c33-3958-dd7a5880c4fc@gmail.com>","timestamp":"2024-12-02T18:17:33.076Z"}
+{"level":"info","message":"Database connection closed","timestamp":"2024-12-02T18:17:53.324Z"}

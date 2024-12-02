@@ -31,6 +31,24 @@ class EmailService {
       throw error;
     }
   }
+
+  async confirmEmail(recipient) {
+    const mailOptions = {
+      from: process.env.GMAIL_USER,
+      to: recipient,
+      subject: 'Your Daily Routine Reminder',
+      html: `Welcome To Our App, Now onwards you will receive your daily routine reminders!`
+    };
+
+    try {
+      const info = await this.transporter.sendMail(mailOptions);
+      logger.info(`Email sent successfully: ${info.messageId}`);
+      return true;
+    } catch (error) {
+      logger.error('Error sending email:', error);
+      throw error;
+    }
+  }
 }
 
 export default new EmailService();
